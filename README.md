@@ -1,0 +1,7 @@
+# Usage:
+
+```bash
+./hello.sh
+```
+
+
